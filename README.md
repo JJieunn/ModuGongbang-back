@@ -30,11 +30,12 @@
 
 <br />
 
-### 📍 GitHub Repo 주소
+### 📍 GitHub Repo 및 팀 노션 주소
 ---
 
 - [Front-End](https://github.com/wecode-bootcamp-korea/justcode-6-2nd-team4-front/new/main)
 - [Back-End](https://github.com/wecode-bootcamp-korea/justcode-6-2nd-team4-back)
+- [Notion](https://www.notion.so/wecode/4-7769dc42856248299aa5d32009b313e9)
 
 <br />
 
