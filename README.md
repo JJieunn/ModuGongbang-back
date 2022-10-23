@@ -202,6 +202,13 @@ MVC pattern에 Service가 추가된 Layered achitecture 로 routers - controller
 
 <br />
 
+### 📍담당 기능 API Docs
+---
+- [API Docs](https://documenter.getpostman.com/view/22723173/2s7Z7VLazp)
+
+
+<br />
+
 ---
 
 ### 📍 그 외 기능 분담
